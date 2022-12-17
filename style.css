@@ -1,0 +1,86 @@
+body{
+    background-color: bisque;
+}
+
+.one{
+    border: 3px solid rgb(161, 54, 54);
+    width: 1000px;
+    height:auto;
+    margin-left:300px;
+}
+.header{
+    text-align: center;
+    background-color: gray;
+}
+.header img{
+    margin-top:20px;
+}
+.header h1{
+    background-color: chartreuse;
+}
+.body{
+    text-align: center;
+}
+.resume{
+    display: flex;
+    background-color: white;
+   
+}
+.resume1{
+    border-right:2px solid black;
+    padding:20px;
+   width: 50%;
+   
+}
+.resume2{
+    width:50%;
+    padding:20px;
+}
+.data1{
+color:rgb(94, 67, 168);
+}
+.data1 p{
+    color:rgb(50, 190, 22)
+}
+.data2{
+    color:rgb(94, 67, 168);
+}
+.data2 .da{
+    color:rgb(50, 190, 22)
+}
+.data3{
+    color:rgb(94, 67, 168);
+}
+.data3 .da{
+    color:rgb(50, 190, 22)
+}
+.data4{
+    color:rgb(94, 67, 168);
+}
+.data4 .da{
+    color:rgb(50, 190, 22)
+}
+.data5{
+    color:rgb(94, 67, 168);
+}
+.data5 .da2{
+    color:blue;
+}
+.data5 .da3{
+    color:rgb(50, 190, 22)
+}
+.data6{
+    color:rgb(94, 67, 168);
+}
+.data6 .da{
+    color:rgb(50, 190, 22)
+}
+.data7{
+    color:rgb(94, 67, 168);
+}
+.data8{
+    color:rgb(94, 67, 168);
+}
+.data8 .da{
+    color:rgb(50, 190, 22)
+}
